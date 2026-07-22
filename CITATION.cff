@@ -3,6 +3,7 @@ message: "Si utiliza este proyecto, cite la referencia académica preferida incl
 title: "Esquema de trabajo para la toma de decisiones en el sector turismo de la ciudad de Cartagena, combinando lectura de electroencefalogramas con técnicas de minería de datos no supervisadas"
 type: software
 version: 1.0.0
+date-released: 2026-07-21
 authors:
   - given-names: "Eduardo José"
     family-names: "Ebratt Cancino"

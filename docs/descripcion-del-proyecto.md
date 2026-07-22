@@ -20,4 +20,4 @@ La documentación pública explica el proceso sin exponer código privado, datos
 - Tutor: Juan Carlos García Ojeda.
 - Contacto público: `eebratt12@gmail.com`.
 - Versión: 1.0.0.
-- Fecha definitiva de publicación: pendiente hasta la publicación real.
+- Fecha de publicación inicial: 2026-07-21.

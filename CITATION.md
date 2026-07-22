@@ -24,4 +24,4 @@ Ebratt Cancino y Pardo Paternina (2026), *Esquema de trabajo para la toma de dec
 
 ## Autoría, versión y fecha
 
-Juan Carlos García Ojeda es el tutor académico y no figura como autor. La versión documentada es **1.0.0**. La fecha definitiva de publicación permanece pendiente hasta la publicación real; si se publica el 21 de julio de 2026, deberá registrarse como `2026-07-21`.
+Juan Carlos García Ojeda es el tutor académico y no figura como autor. La versión documentada es **1.0.0**. La fecha de publicación inicial es `2026-07-21`.
