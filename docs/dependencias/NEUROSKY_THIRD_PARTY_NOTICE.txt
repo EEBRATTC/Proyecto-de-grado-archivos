@@ -1,0 +1,27 @@
+AVISO DE TERCEROS — NEUROSKY
+
+NeuroSky, Inc. es el titular o desarrollador de ThinkGear Connector y de tecnologías asociadas al dispositivo MindWave Mobile 2.
+
+Dentro de este proyecto académico, ThinkGear Connector se utilizó como componente de comunicación entre MindWave Mobile 2 y aplicaciones compatibles. El uso realizado por el equipo fue exclusivamente académico. Eduardo José Ebratt Cancino y José Ignacio Gabriel Pardo Paternina no desarrollaron ni poseen ThinkGear Connector, MindWave Mobile 2 ni los componentes de NeuroSky.
+
+Las marcas, derechos de autor, avisos y demás derechos de NeuroSky y de terceros deben conservarse.
+
+Documentación oficial de ThinkGear Connector:
+https://developer.neurosky.com/docs/doku.php?id=thinkgear_connector_tgc
+
+Acuerdo de licencia de NeuroSky:
+https://store.neurosky.com/pages/license-agreement
+
+SHA-256 del respaldo interno Windows Setup Kit.zip, conservado solo como registro de integridad:
+9F601829F5CE79CE53AB728B1E03305C2CF0ACD11468A97A1E38489E2F648515
+
+ThinkGear Connector 3.2.4.0, identificada mediante los metadatos del ejecutable utilizado por el equipo. FileVersion y ProductVersion coincidieron en 3.2.4.0. El ejecutable no fue ejecutado y no se afirma que la versión haya sido verificada en la página oficial.
+
+Windows Setup Kit.zip fue retirado del árbol de trabajo público. El paquete utilizado por el equipo se conserva únicamente como respaldo interno no publicable en ENTRADA_CODEX/terceros_no_publicar/. El repositorio público no lo redistribuye; no debe copiarse a GitLab o al GitHub privado de scripts ni incluirse en la Release de mindApp.
+
+ThinkGear Connector, MindWave Mobile 2, Windows Setup Kit y las marcas asociadas pertenecen a NeuroSky, Inc. Este repositorio no está afiliado, patrocinado ni respaldado oficialmente por NeuroSky. El equipo del proyecto no desarrolló ni posee estos componentes. ThinkGear Connector es necesario para la comunicación con MindWave Mobile 2. Las instrucciones permanecen disponibles, pero el usuario debe obtener el software prioritariamente desde la fuente oficial y utilizarlo conforme a las condiciones de NeuroSky.
+
+Esta atribución no constituye ni demuestra permiso de redistribución y la copia no concede derechos adicionales a terceros.
+
+Contacto para atribución, propiedad intelectual o una eventual solicitud de retiro:
+eebratt12@gmail.com

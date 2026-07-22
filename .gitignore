@@ -1,0 +1,53 @@
+# Credenciales y configuración local
+.env
+*.env
+tokens/
+token*
+credenciales/
+credentials*
+secrets/
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+.pytest_cache/
+.mypy_cache/
+
+# Registros y temporales
+*.log
+logs/
+tmp/
+temp/
+*.tmp
+*.bak
+~$*
+
+# Sistema y editores
+.DS_Store
+Thumbs.db
+desktop.ini
+.idea/
+.vscode/
+
+# Datos y software no autorizados para el repositorio público
+data/raw/
+scores.csv
+resultados_entrevista.csv
+encuestas/
+consentimientos/
+*.zip
+*.rar
+*.7z
+*.exe
+*.dll
+
+# Unity generado
+Library/
+Temp/
+Obj/
+Build/
+Builds/
+Logs/
+UserSettings/

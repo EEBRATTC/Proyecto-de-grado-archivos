@@ -1,0 +1,5 @@
+﻿Comparacion,Variable_EEG,Variable_Encuesta,Tecnica,N_Registros,Pearson,Spearman,Interpretacion
+Valence EEG vs valence encuesta,Valence_Z,valence,Pearson/Spearman,93,-0.07579549240398611,-0.11162643501118504,"Coeficiente exploratorio; valores bajos no invalidan ninguna fuente, indican baja asociación numérica."
+Arousal EEG vs arousal encuesta,Arousal_Z,arousal,Pearson/Spearman,93,-0.10610831570862587,-0.08550120384232013,"Coeficiente exploratorio; valores bajos no invalidan ninguna fuente, indican baja asociación numérica."
+Valence EEG vs ranking,Valence_Z,ranking,Pearson/Spearman,93,0.1123955522939367,0.12322277524727265,"Coeficiente exploratorio; valores bajos no invalidan ninguna fuente, indican baja asociación numérica."
+Arousal EEG vs ranking,Arousal_Z,ranking,Pearson/Spearman,93,0.14232573860642014,0.1556375533831643,"Coeficiente exploratorio; valores bajos no invalidan ninguna fuente, indican baja asociación numérica."

@@ -1,0 +1,3 @@
+﻿Dimension,Registros_Totales,Registros_Neutrales_o_No_Aplican,Registros_No_Neutrales,Coincidencias,Discrepancias,Porcentaje_Coincidencia,Interpretacion
+Valence,93,25,68,31,37,45.588235294117645,Coincidencia direccional parcial entre fuente subjetiva y métrica EEG procesada
+Arousal,93,34,59,29,30,49.152542372881356,Coincidencia direccional parcial entre fuente subjetiva y métrica EEG procesada

@@ -1,0 +1,29 @@
+cff-version: 1.2.0
+message: "Si utiliza este proyecto, cite la referencia académica preferida incluida en este archivo."
+title: "Esquema de trabajo para la toma de decisiones en el sector turismo de la ciudad de Cartagena, combinando lectura de electroencefalogramas con técnicas de minería de datos no supervisadas"
+type: software
+version: 1.0.0
+authors:
+  - given-names: "Eduardo José"
+    family-names: "Ebratt Cancino"
+    affiliation: "Universidad de Cartagena"
+    email: "eebratt12@gmail.com"
+  - given-names: "José Ignacio Gabriel"
+    family-names: "Pardo Paternina"
+    affiliation: "Universidad de Cartagena"
+repository-artifact: "https://github.com/EEBRATTC/Proyecto-de-grado-archivos"
+url: "https://github.com/EEBRATTC/Proyecto-de-grado-archivos"
+abstract: "Proyecto de grado sobre un esquema de trabajo para el procesamiento exploratorio de señales EEG aplicado al sector turismo de Cartagena de Indias mediante técnicas de minería de datos no supervisadas."
+preferred-citation:
+  type: report
+  title: "Esquema de trabajo para la toma de decisiones en el sector turismo de la ciudad de Cartagena, combinando lectura de electroencefalogramas con técnicas de minería de datos no supervisadas"
+  version: 1.0.0
+  year: 2026
+  authors:
+    - given-names: "Eduardo José"
+      family-names: "Ebratt Cancino"
+      affiliation: "Universidad de Cartagena"
+    - given-names: "José Ignacio Gabriel"
+      family-names: "Pardo Paternina"
+      affiliation: "Universidad de Cartagena"
+  url: "https://github.com/EEBRATTC/Proyecto-de-grado-archivos"
